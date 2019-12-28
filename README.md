@@ -1,5 +1,5 @@
 ## Hello GitHub
 
-This is a hello worlod project of github.
+This is a hello world project of github.
 
 * test the markdown
